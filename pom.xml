@@ -9,7 +9,7 @@
 
     <name>Renovate grouping shared variable name deps bugreport</name>
     <properties>
-        <keycloak.version>26.4.4</keycloak.version>
+        <keycloak.version>26.4.5</keycloak.version>
     </properties>
 
     <dependencies>
